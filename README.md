@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about data engineering and fullstack development**
 
-- 👨‍💻 All of my projects are available at [https://barahona1602.github.io/Mi-Portafolio/](https://barahona1602.github.io/Mi-Portafolio/)
+- 👨‍💻 All of my CV are available at [https://barahona1602.github.io/Mi-Portafolio/](https://barahona1602.github.io/Mi-Portafolio/)
 
 - 💬 Ask me about **Science and System Engineering**
 
